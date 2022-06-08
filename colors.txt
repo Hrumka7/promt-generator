@@ -163,4 +163,9 @@ White
 Wisteria
 Xanthic
 Yellow
-Zucchini
+Zucchini 
+dimgray
+dimgrey
+grey
+darkgray
+darkgrey
